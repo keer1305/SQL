@@ -31,3 +31,5 @@ For a One to many relationships, a single column value in one table has one or m
 Many to Many Relationship:
 
 The third table acts as a bridge between the tables that want to establish a Many to Many relationship. The bridge table stores the common information between Many to Many relationship tables
+
+
