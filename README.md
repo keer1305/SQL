@@ -1,11 +1,9 @@
-             <img width="269" alt="image" src="https://github.com/user-attachments/assets/a7ef3ba8-9a9d-4744-abee-d231e8aa762e" />
+<img width="269" alt="image" src="https://github.com/user-attachments/assets/a7ef3ba8-9a9d-4744-abee-d231e8aa762e" />
 
 # 🛍️ Chanel Retail Data Management System
 
 A SQL-based relational database system designed to simulate the operations of a luxury retail brand, focusing on customer insights, appointment scheduling, service usage, and sales analysis across multiple store locations.
-
 ---
-
 ## 📌 Project Overview
 
 Luxury retailers like Chanel manage vast volumes of structured data—from customer profiles and product inventories to service appointments and store operations. This project creates a scalable, normalized relational database to streamline operations and uncover business insights.
