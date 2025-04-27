@@ -28,6 +28,8 @@ You can view the ER diagram [here](link-to-pdf-or-image).
 - **Design**: Lucidchart (ERD)
 - **Data**: Mock data generated via Excel and manual entry
 - **Language**: SQL (DDL, DML, and Analytical Queries)
+- 
+![er_diagram_final](https://github.com/user-attachments/assets/efabeddd-45de-42b9-a9c5-98cb2d03c1fa)
 
 ---
 
